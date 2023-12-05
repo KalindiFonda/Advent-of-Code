@@ -37,4 +37,5 @@ The second part took a good few seconds, and it had me worried if it's time to o
 
 
 #### Things I thought about (afterwards):
+
 It's interesting, that I sometimes leave myself comments about places in the code that is suspicious and to keep it in mind if struggling.

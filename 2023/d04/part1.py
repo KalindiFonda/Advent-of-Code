@@ -1,3 +1,6 @@
+# Beware, code written in 6am conditions full of sleepy and stressure.
+# Before posting I remove print statements, unused variables, and dead-end functions and tries, otherwise I leave the code as is, because I think it's fun to see what happens under those conditions.
+# For more info read the READMEs.
 
 def aoc(filename):
   with open(filename, "r") as f:
