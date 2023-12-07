@@ -20,6 +20,12 @@ sorted_cards = sorted(cards, key=cmp_to_key(compare))
 and the compare funtion takes two parameters to compare, and then outputs 0 if they are the same, and a negative or positive number if they are bigger or smaller (the -/+ indicates the dirction of sortage).
 
 
+Oh and for part 2: 
+
+I changed the value of J to 1 and added the count of Js to the card with the most counts in the counter dictionary.
+
+
+
 #### Issues
 
 RAAAAAAAAGEEEEE! 
