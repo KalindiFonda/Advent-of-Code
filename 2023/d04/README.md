@@ -35,7 +35,6 @@ And all the many for loops I had, I was just waiting 😅
 
 The second part took a good few seconds, and it had me worried if it's time to optimize : )
 
-
-#### Things I thought about (afterwards):
+#### Things I thought about (afterwards):
 
 It's interesting, that I sometimes leave myself comments about places in the code that is suspicious and to keep it in mind if struggling.

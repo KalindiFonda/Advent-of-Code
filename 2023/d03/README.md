@@ -33,7 +33,7 @@ pt2: I messed up with how big the box with the max_x, I think there was no need 
 And omg the internet! Had issues, and so it took me a while to get the results, run stuff, first time I was like maybe my replit life is no good.
 
 
-#### Things I thought about afterwards:
+#### Things I thought about afterwards:
 
 It's funny to see how I went this extra route of changing my original char holding data structure to account for the new requirements, and then totally didn't need it.
 

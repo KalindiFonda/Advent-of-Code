@@ -12,8 +12,7 @@ Today was the first time where my thinking about "testing" was a bit useful. So 
 This part was mostly about parsing. 
 And I used dictionaries to keep track of how many cubes there can be or were already in use. 
 
-
-#### Things I thought about afterwards:
+#### Things I thought about afterwards:
 
 I usually try to keep data reading separate from the computation, but this one was easy enough.
 

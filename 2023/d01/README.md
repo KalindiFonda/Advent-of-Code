@@ -15,7 +15,8 @@ Look until you find the first digit, and then look from the back until first dig
 For part 2 on top of the above check from current char, look forward or backward x characters to see if it's a string mapping to a digit.
 
 
-#### Things I thought about afterwards:
+#### Things I thought about afterwards:
+
 I keep forgetting about this guy: 
 `line[::-1]`
 

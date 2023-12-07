@@ -33,8 +33,7 @@ So I had to rethink throug it for part two.
 
 And for part two, I kept the order, where destination was the key.
 
-
-#### Things I thought about afterwards:
+#### Things I thought about afterwards:
 
 The computer gave me this suggestion: 
 ```python

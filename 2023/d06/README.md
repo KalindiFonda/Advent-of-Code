@@ -36,15 +36,17 @@ which meant that they would never be the same (breakout condition).  So I had to
 And then I manually subtracted the various options. 
 Drama! 
 
-
 Also AoC panik! 
 
 
+#### Things I thought about afterwards:
 
-#### Things I thought about afterwards:
 
 Some people said their check for each speed solution worked on pt2 as well, I wasn't this "lucky" haha, but then I got to implement a stressy binary search so maybe I am lucky for that.
 
 And then there were people that solved it with a matemathical formula! O(1) baby! 
 
 Good effort! 
+
+
+Also it's symmetric around the midpoint!!! 
