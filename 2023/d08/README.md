@@ -12,7 +12,17 @@ Part 1 was swift, part 2 took a solid fiddle to figure out to do.
 Part 1, I created a dictionary with the left/right nodes, and then travelled down the dictionary, until I found the node I wanted.
 
 Part 2 was a journey. Of course I tried the above, but one window was running that while I was trying to figure out alternative solutions, and there was no sign of result. 
-Then I figured I could maybe find the points when the various start points get to a Z value, and then find matching values [lots of fiddling here]. But at some point when I printed them out, I was like hmmmm, they 1. seem related to the result, 2. end and start arrival "stations" were also related, which is still a bit confusing. But then I did the lowest common multiplier and that was that.
+Then I figured I could maybe find the points when the various start points get to a Z value, and then find matching values [lots of fiddling here]. But at some point when I printed them out, I was like hmmmm, they 1. seem related to the result, 2. end and start arrival "stations" were also related, which is still a bit confusing, but I think it goes like this:
+
+The As stations needed to take X steps to get to the first Z station, and than that same Z station needed exactly X steps to get to the next Z station which was itself
+```python
+These were the pairs of vals and first Z they meet:
+{'RXA': (19783, 'QCZ'), 'AAA': (18157, 'ZZZ'), 'QFA': (12737, 'PQZ'), 'JSA': (19241, 'LRZ'), 'QLA': (16531, 'VHZ'), 'RLA': (14363, 'JJZ')}
+{'ZZZ': (18157, 'ZZZ'), 'QCZ': (19783, 'QCZ'), 'VHZ': (16531, 'VHZ'), 'PQZ': (12737, 'PQZ'), 'JJZ': (14363, 'JJZ'), 'LRZ': (19241, 'LRZ')}
+```  
+
+
+And then when I got the lowest common multiplier and that was that.
 
 
 #### Issues
