@@ -17,7 +17,7 @@ Use my comparison function in python sort function.
 sorted_cards = sorted(cards, key=cmp_to_key(compare))
 ```
 
-and the compare function takes two parameters to compare, and then outputs 0 if they are the same, and a negative or positive number if they are bigger or smaller (the -/+ indicates the dirction of sortage).
+The compare funtion takes two parameters to compare, and then outputs 0 if they are the same, and a negative or positive number if they are bigger or smaller (the -/+ indicates the direction of sortage).
 
 
 Oh and for part 2: 
