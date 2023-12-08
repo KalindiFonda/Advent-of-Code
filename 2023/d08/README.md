@@ -25,5 +25,8 @@ It's that equivalent to the learning how to dance story. Like first you dance wi
 
 It's nice to see, though, how maybe something where I stumbled or had to figure out years ago, is now part of my dance routine.
 
+You know:
+> What if the map isn't for people - what if the map is for ghosts? Are ghosts even bound by the laws of spacetime? Only one way to find out.
+
 #### Things I thought about afterwards:
 
