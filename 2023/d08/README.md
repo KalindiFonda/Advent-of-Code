@@ -40,3 +40,14 @@ You know:
 
 #### Things I thought about afterwards:
 
+Ahhhh haha I tried this: 
+
+```python
+math.lcm([1,2,3]) 
+```
+And got scared by the error: 
+`TypeError: 'list' object cannot be interpreted as an integer`. I could have just unpacked the list 🤦‍♀️ instead I got some lcm equivalent of off stack overflow.
+
+```python
+math.lcm(*[1,2,3]) 
+```
