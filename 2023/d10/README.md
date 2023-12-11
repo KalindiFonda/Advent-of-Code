@@ -97,7 +97,7 @@ I wonder if perseverance is also affected (and yes it probably is).
 ##### The joys of community and codes of behaviour
 
 
-This year I am sharing my AoC hype with the Le Wagon [^bignote] community, and this really makes a difference. I had an AoC partner in 2020, but to have a whole AoC family <3, wow, to be able to share excitment, desperation, solutions and jokes it's what makes life meaningful.[^bignote] 
+This year I am sharing my AoC hype with the Le Wagon [^1] community, and this really makes a difference. I had an AoC partner in 2020, but to have a whole AoC family <3, wow, to be able to share excitment, desperation, solutions and jokes it's what makes life meaningful.[^2] 
 
 One question that kept popping up in the various chats ovet the last days was what is cheating (there are prizes and street cred on the line, I hear!). And my answer so far has been:
 1. give it a solid nudge
@@ -152,8 +152,6 @@ Can't wait for tomorrow.
 
 ----
 
-[^bignote]: I did the data bootcamp over last winter in Brussels, that I wholeheartedly recommend. I really enjoyed the way the material was laid out, the challenges created to internalize information, the support structure and the incentives to collaborate with my course mates (which were awesome as well #1109forever). I've been around ed-tech and worked both in tech and ed-tech for a few years now, and I still felt I was able to gain from this experience so much. 
+[^1]: I did the data bootcamp over last winter in Brussels, that I wholeheartedly recommend. I really enjoyed the way the material was laid out, the challenges created to internalize information, the support structure and the incentives to collaborate with my course mates (which were awesome as well #1109forever). I've been around ed-tech and worked both in tech and ed-tech for a few years now, and I still felt I was able to gain from this experience so much. There is always talk of alumni networks, and although I haven't relied on it professionally (yet?), I definitely am socially, we still meet with my Brusselenian mates, and now  this Advent of Code joy means so much. Anyways back to it.
 
-There is always talk of alumni networks, and although I haven't relied on it professionally (yet?), I definitely am socially, we still meet with my Brusselenian mates, and now  this Advent of Code joy means so much. Anyways back to it.
-
-[^bignote] Shoutout to the readers! A few of you mentioned you enjoyed reading these. I was on the fence if I should post the AoC challenges at all (I haven't done it ever yet), and those cheers are really motivational. Thanks a lot.
+[^2] Shoutout to the readers! A few of you mentioned you enjoyed reading these. I was on the fence if I should post the AoC challenges at all (I haven't done it ever yet), and those cheers are really motivational. Thanks a lot.
