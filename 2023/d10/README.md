@@ -7,7 +7,7 @@ https://adventofcode.com/2023/day/10
 
 Not sure if the challenge today was actually harder or if my brain was 😶‍🌫️ 
 
-Oh myyyyy, laughing, fun and playing jackbox.tv tshirt game until 3am, does not make for a fresh brain at 6am. So bear with me! 
+Oh myyyyy, laughing, fun with friends and playing jackbox.tv tshirt game until 3am, does not make for a fresh brain at 6am. So bear with me! 
 
 
 > As you stop to admire some metal grass...
