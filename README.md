@@ -52,3 +52,21 @@ I think, this is a pretty good deal. Helps me have good sleeping habits by givin
 Let's see how far I get this year. AoC is something that makes me joyous, and I am grateful for the crew that makes it happen. 
 
 And this year, I am part of the Le Wagon AoC party and hype, and it's lovely to have a community to be excited about it together, wohooo.
+
+
+### If you added input files into your repo
+
+To protect the REAL ELVES IP (aka the creator(s) of AoC) they are suggesting not sharing any of the challenge input files as having those makes it easier for EVIL parties to steal the challenges #GRINCH, [more info here](https://www.reddit.com/r/adventofcode/comments/18ehed6/re_not_sharing_inputs_psa_deleting_and_committing/). If like me you added them to your repo
+
+
+I did these steps (replace the name of your input files and the name of your repo)
+```
+pip install git-filter-repo  
+git filter-repo --path-glob "2023/*/text.txt" --invert-paths --force
+git push --set-upstream git@github.com:KalindiFonda/Advent-of-Code.git main --force
+git remote add origin git@github.com:KalindiFonda/Advent-of-Code.git
+```
+
+It deleted the data files (big challenge input, which i called text.txt) both in my local repo and github repo, but kept all the commits as they were (deleting any mention of the text.txt files), except if a commit was just the file itself then it deleted the commit too.  
+
+Phew! 🌟
