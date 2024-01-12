@@ -29,12 +29,14 @@ I also explored a more programmey way of doing this, where one starts at each no
 Part 2:
 A few days later, as I rested a bit, I did 3 stars on one day, and 2 on the next, and then, there they were the 49 stars necessary.
 
-Some days I was like "oh my don't even think of signing up for this next year", but it's 2 weeks later and I already can't wait. 
+And one more:
 
-There are many more stars I can chase before next December, even maybe the 50th of a few years, but I'll take a bit of a break now, and chase real stars in the middle of the ocean.
+🌟
+
+Wow, I manged, 50 stars.
+
+🤝🙌😎🥳
 
 #### Issues
-
-
 
 #### Things I thought about afterwards:
