@@ -30,9 +30,12 @@ It's always a battle between trying to do it fast, and stopping for a moment to 
 
 #### 2020
 2020 was my frist year and I got so increadibly hooked. I managed to actually get all the 50, I think I spent about 20 hours straight on one of the exercises, because I thought you don't get stars if you don't do them before the last one is released  🤣 
-(5am uk)
+
+Also I didn't know, waking up early meant something, so you can see in my completion time the shift to an earlier time in those first few days. (5am uk)
 
 As days go, it becomes harder and harder to wake up, to keep the tempo especially with the competing December events (like family and holiday parties and even in 2020, zoom hangouts of all sorts).
+
+And shout out to Ollie, my OG AoC partner, there is a bit of you in every bright AoC star 🌟
 
 #### 2021
 
@@ -49,9 +52,7 @@ As days go, it becomes harder and harder to wake up, to keep the tempo especiall
 I am at 6am in 2023, and I miss the 5am starts, as there is more time before the world wakes up and starts asking for things!
 I think, this is a pretty good deal. Helps me have good sleeping habits by giving me a reason to go to bed earlier. Not that I go necessarily, but I have a reason to, he he.
 
-Let's see how far I get this year. AoC is something that makes me joyous, and I am grateful for the crew that makes it happen. 
-
-And this year, I am part of the Le Wagon AoC party and hype, and it's lovely to have a community to be excited about it together, wohooo.
+Let's see how far I get this year. AoC is something that makes me joyous, and I am grateful for the crew that makes it happen: this year, I am part of the Le Wagon AoC party and hype, and it's lovely to have a community to be excited about it together, wohooo.
 
 
 ### If you added input files into your repo
